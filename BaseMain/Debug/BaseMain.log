@@ -1,0 +1,3 @@
+﻿  BaseMain.cpp
+d:\project c++\studentbase\basemain\basemain\basemain\basemain.cpp(356): warning C4551: в вызове функции отсутствует список аргументов
+  BaseMain.vcxproj -> D:\Project C++\StudentBase\BaseMain\BaseMain\Debug\BaseMain.exe
